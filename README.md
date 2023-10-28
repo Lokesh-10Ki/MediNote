@@ -1,8 +1,8 @@
-# React + Vite
+# MediNote
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Installation
+1. git clone https://github.com/yourusername/your-repo.git
+2. cd MediNote
+3. Create a .env file defining the azure api key, location and openAI key
+4. npm install
+5. npm run dev
