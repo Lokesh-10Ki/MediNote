@@ -478,8 +478,8 @@ function App() {
                         <VStack
                           w="270px"
                           position="fixed"
-                          top="10rem"
-                          right="2rem"
+                          top="30.7rem"
+                          right="1rem"
                         >
                           <Select
                             value={notetype}
